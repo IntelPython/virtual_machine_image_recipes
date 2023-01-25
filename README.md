@@ -1,3 +1,7 @@
+# DISCONTINUATION OF PROJECT #
+This project will no longer be maintained by Intel.
+Intel has ceased development and contributions including, but not limited to, maintenance, bug fixes, new releases, or updates, to this project.
+Intel no longer accepts patches to this project.
 # virtual_machine_image_recipes
 Packer build templates to create Virtual Machine Images for various cloud service providers with the Intel® Distribution for Python* built-in.
 
